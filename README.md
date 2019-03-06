@@ -1,6 +1,5 @@
 # Lista de la compra
 
-
 Auga
 Leite 
 Zumo de laranxa
@@ -9,3 +8,8 @@ Ovos
 Pan
 Leituga
 Chocolate
+
+# Lista de frutas
+
+Peras
+Mazás
