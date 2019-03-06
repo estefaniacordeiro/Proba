@@ -7,3 +7,5 @@ Zumo de laranxa
 Aceite
 Ovos
 Pan
+Leituga
+Chocolate
