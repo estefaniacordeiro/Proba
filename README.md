@@ -5,3 +5,5 @@ Auga
 Leite 
 Zumo de laranxa
 Aceite
+Ovos
+Pan
